@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionDeleter", "ExtensionDeleter.csproj", "{8096A48F-6329-41D7-9CAE-9E305DA0942C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8096A48F-6329-41D7-9CAE-9E305DA0942C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8096A48F-6329-41D7-9CAE-9E305DA0942C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8096A48F-6329-41D7-9CAE-9E305DA0942C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8096A48F-6329-41D7-9CAE-9E305DA0942C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE8495BD-7A04-4D4E-9219-ED7FC4A97267}
+	EndGlobalSection
+EndGlobal
